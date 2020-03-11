@@ -19,3 +19,8 @@ Stipendio Dipendente
  private DataAccredito
  private MetodoPagamento
  private Iban
+ __construct(__Stipendio)
+
+Ruolo
+ private Ruolo
+ private MezziUsati
